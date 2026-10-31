@@ -12,4 +12,4 @@ Each one is hand-written HTML and CSS. Most run on Cloudflare Workers.
 - **[betterhealthbymassage.com](https://betterhealthbymassage.com)** – Better Health By Massage, massage therapy in Dallas–Fort Worth by Tabitha Shegda, LMT (Texas license #02664960)
 - **[resume.alexshegda.com](https://resume.alexshegda.com)** – My resume
 - **[plex.alexshegda.com](https://plex.alexshegda.com)** – Live status of my Plex media server
-- **[mon.lab5.dev](https://mon.lab5.dev)** – Latency monitor, a simpler SmokePing: round-the-clock ping graphs and outage alerts for the hosts I watch
+- **[mon.lab5.dev](https://mon.lab5.dev)** – Latency monitor, a simpler SmokePing: round-the-clock ping graphs, outage alerts and a traced route to each host I watch
